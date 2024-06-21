@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![linkedin](https://img.shields.io/badge/Linked_In-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/szymon-janowski/) [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/szymonjanowski)
-![Github stats](https://github-readme-stats.vercel.app/api?&username=butterflyTony&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=16&count_private=true)
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=butterflyTony&layout=compact&hide=css,html,php&langs_count=5)
 
