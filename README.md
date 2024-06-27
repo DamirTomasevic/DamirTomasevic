@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![linkedin](https://img.shields.io/badge/Linked_In-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/szymon-janowski/) [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/szymonjanowski)
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=butterflyTony&layout=compact&hide=css,html,php&langs_count=5)
